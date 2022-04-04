@@ -1,0 +1,7 @@
+Check each strategy against these basic rules:
+
+never have a combined risk of all positions greater than:
+never have a risk in a single position greater than:
+
+never have more than X positions open
+
